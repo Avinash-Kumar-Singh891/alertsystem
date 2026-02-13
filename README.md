@@ -1,6 +1,7 @@
 # Cloud Security Alert Management System
 
 A React-based web application designed for rapid triage, investigation, and resolution of cloud security alerts. This system helps security teams prioritize risks, investigate root causes via a timeline view, and close the loop with remediation actions.
+Live demo - https://plug-public-95354445.figma.site
 
 ## 🚀 Features
 
